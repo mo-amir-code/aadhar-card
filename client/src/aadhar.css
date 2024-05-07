@@ -1,0 +1,94 @@
+.article {
+    width: 360px;
+    height: 200px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .justify-between {
+    justify-content: space-between;
+  }
+  
+  .pt-4 {
+    padding-top: 1rem;
+  }
+  
+  .pb-2 {
+    padding-bottom: 0.5rem;
+  }
+  
+  .px-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  
+  .bg-white {
+    background-color: #ffffff;
+  }
+  
+  .rounded-lg {
+    border-radius: 8px;
+  }
+  
+  .overflow-hidden {
+    overflow: hidden;
+  }
+  
+  .font-semibold {
+    font-weight: 600;
+  }
+  
+  .flex-grow {
+    flex-grow: 1;
+  }
+  
+  .pl-6 {
+    padding-left: 1.5rem;
+  }
+  
+  .text-wrap {
+    white-space: pre-wrap;
+  }
+  
+  .pr-2 {
+    padding-right: 0.5rem;
+  }
+  
+  .pt-4 {
+    padding-top: 1rem;
+  }
+  
+  .bg-red-700 {
+    background-color: #dc2626;
+  }
+
+  
+  /* Header component */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.25rem 1rem;
+  }
+  
+  /* FooterWithUID component */
+  .footer {
+    padding: 0 0.25rem;
+  }
+  
+  .text-lg {
+    font-size: 1.125rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .font-medium {
+    font-weight: 500;
+  }
+  
